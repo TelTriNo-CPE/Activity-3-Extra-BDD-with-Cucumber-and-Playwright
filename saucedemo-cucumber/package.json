@@ -1,0 +1,16 @@
+{
+  "name": "saucedemo-cucumber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.5.0",
+    "@playwright/test": "^1.57.0"
+  }
+}
